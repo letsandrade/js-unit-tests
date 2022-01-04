@@ -42,7 +42,6 @@ const calculator = (number1, number2) => {
   };
   return myCalculation;
 };
-console.log(calculator(1, 3));
 
 const arrayGenerator = (type, object) => {
   if (type === 'keys') {
