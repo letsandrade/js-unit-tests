@@ -55,7 +55,5 @@ const arrayGenerator = (type, object) => {
     return Object.entries(object);
   }  
 };
-let myObject = { sum: 4, mult: 3, div: 0, sub: -2 };
-console.log(arrayGenerator('keys', myObject));
 
 module.exports = { calculator, arrayGenerator };
