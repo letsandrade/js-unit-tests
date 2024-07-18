@@ -26,14 +26,13 @@ The project proposes the development of unit tests for the functions provided, a
     cd js-unit-tests
 ```
 
-3. Open the project using Live Server (or any similar solution you prefer), and you will be able to see the page in your browser and interact with the app.
+3. You can run the tests using:
+
+```sh
+    npm run test
+```
 
 Feel free to explore the code, tweak and learn from it!
-
-## Live version
-
-Instead of cloning the repository and seeing it locally, its possible to see the project live at https://js-unit-tests-letsandrade.vercel.app/
-currently deployed is the version i did at the time, but i do intend to make a few quick adjustments in the future, and deploy those as well.
 
 ## Acknowledgements
 
@@ -71,14 +70,13 @@ O projeto propõe o desenvolvimento de testes unitários para as funções forne
     cd js-unit-tests
 ```
 
-3. Abra o projeto usando Live Server (ou qualquer solução similar de sua preferência), e você poderá ver a página no seu navegador e interagir com a aplicação.
+3. você pode executar os testes usando o comando:
+
+```sh
+    npm run test
+```
 
 Fique à vontade para explorar o código, modificá-lo e aprender com ele!
-
-## Live version
-
-Ao invés de clonar esse repositório e ver localmente, é possível vê-lo no link https://js-unit-tests-letsandrade.vercel.app/
-a versão em deploy atualmente é a que fiz à época, mas pretendo fazer alguns ajustes rápidos no futuro e fazer o deploy destes também.
 
 ## Agradecimentos
 
